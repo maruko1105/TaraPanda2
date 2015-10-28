@@ -54,7 +54,7 @@ ul.image-set {
   overflow: hidden;
   float: center;
   display:inline-block;
-  margin: 0;
+  margin-left:200px;
   padding: 0;
   width: 800px;
   height: 800px
