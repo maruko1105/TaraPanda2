@@ -19,7 +19,7 @@ width:700px;
 	    position: relative;
 		list-style: none;
 		float:center;
-		display: inline-block;
+		display: inline;
         font: 600 25px chiller,Arial;
 		text-shadow: 5px 5px 5px #0A86EB;
 		padding: 10px 12px 10px;
