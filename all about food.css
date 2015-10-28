@@ -52,6 +52,8 @@ h2
 }
 ul.image-set {
   overflow: hidden;
+  float: center;
+  display:inline-block;
   margin: 0;
   padding: 0;
   width: 800px;
