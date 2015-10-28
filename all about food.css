@@ -81,7 +81,7 @@ ul.image-set li {
   float: left;
   width: 25%;
   padding: 1.8em;
-  transition: width .3s .5s, opacity .3s .5s, padding .3s .5s
+  transition : width .3s .5s, opacity .3s .5s, padding .3s .5s
 }
 
 ul.image-set li:hover {
@@ -95,5 +95,7 @@ ul.image-set li img {
   vertical-align: middle;
 } 
 body 
-{ background= "pic/cupcake.jpg" ;
+{ background-image: url("pic/cupcake.jpg") ;
+  background-position: cover ;
+  background-repeat: repeat-x;
 }
