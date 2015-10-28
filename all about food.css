@@ -98,4 +98,5 @@ body
 { background-image: url("pic/cupcake.jpg") ;
   background-position: cover ;
   background-repeat: repeat-x;
+  background-attachment: fixed;
 }
