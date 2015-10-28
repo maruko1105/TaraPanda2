@@ -49,4 +49,9 @@ h1
          font-weight: bold;		 
 		 text-align: center; 
 		 color: #2E2E2E;
-}		  
+}	
+body {
+background: repeating-radial-gradient(heart, white 5%, pink 10%),
+  radial-gradient(heart, pink 5%, pink 15%) 30px 30px;
+background-size:60px 60px;
+}	  
