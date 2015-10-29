@@ -9,11 +9,14 @@ p.blocktext
 }
 
 #nav {
-width:700px;
-	margin-left:400px;
-	padding: 0;
-	background-color: #f2f2f2;
-	border-bottom: 1px solid #ccc; }
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	width:100vw;
+	
+	
+	
+}
 	
 	#nav li {
 	    position: relative;
@@ -96,7 +99,6 @@ ul.image-set li img {
 } 
 body 
 { background-image: url("pic/cupcake.jpg") ;
-  background-position: cover ;
-  background-repeat: repeat-x;
+  background-repeat: repeat;
   background-attachment: fixed;
 }
