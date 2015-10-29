@@ -9,10 +9,11 @@ p.blocktext
 }
 
 #nav {
-   display:flex;
-	justify-content:center;
-	align-items:center;
-	width:100vw;
+    width:700px;
+	margin-left:460px;
+	padding: 0;
+	background-color:#E6E6FA;
+	border-bottom: 1px solid #ccc; }
 	
 	#nav li {
 	    position: relative;
