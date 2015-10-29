@@ -90,6 +90,7 @@ background-color: #E6E6FA ;
     width: 60%;	  
 }
 div{
+   display: flex;
    margin-left: auto;
-   margin-right: auto;	
+   margin-right: auto;
 }
