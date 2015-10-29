@@ -86,7 +86,10 @@ ul.image-set li {
   padding: 1.8em;
   transition : width .3s .5s, opacity .3s .5s, padding .3s .5s
 }
-
+a{
+	text-decoration:none;
+	color:black;
+}
 ul.image-set li:hover {
   width: 100%;
   opacity: 1;
@@ -114,17 +117,12 @@ body
   background: #13a89e;
   display: inline-block;
   overflow: hidden;
-  cursor: pointer;
 }
 
 .button:hover {
   background: #20b8ae;
 }
 
-.button:active {
-  margin: -94px -100px;
-  border: 0;
-}
 
 .button article {
   margin: 0 0 0 3px;
@@ -139,9 +137,5 @@ body
   text-transform: uppercase;
   text-shadow: 0 1px 0 rgba(255, 255, 255, .3), 0 -1px 0 rgba(0, 0, 0, .3);
   
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -o-user-select: none;
-  user-select: none; 
+
 }
