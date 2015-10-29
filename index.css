@@ -89,5 +89,9 @@ background-color: #E6E6FA ;
 }
 .center {
     margin: auto;
-    width: 20%;	  
+    width: 80%;	  
+}
+div {
+    margin: auto;
+    width: 80%;	 
 }
