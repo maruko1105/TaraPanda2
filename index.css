@@ -1,11 +1,14 @@
-p.blocktext
-{         
+p.dotted
+{         border-style:dotted;
+          border-color: #1E90FF;
           margin-left: auto;
           margin-right: auto;
           width: 36em;
           font-size: 22pt;
 		  font-family: broadway;
-		  font-weight:bold;	  
+		  font-weight:bold;
+		  background-color: #87CEFA
+   		  
 }
 
 animate
@@ -95,9 +98,4 @@ div {
     margin-left: 75px ;
     width: 85%;
     display:inline-block;	
-}
-.block-three:before {
-  @style:left,transparent 0%,transparent 50%,@rd 50%,@rd 100%;
-  .background-size(10px 100%);
-  .gradient(@pk,@style);
 }
