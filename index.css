@@ -88,3 +88,8 @@ background-color: #E6E6FA ;
 .center {
     margin: auto;
     width: 60%;	  
+}
+div{
+   margin-left: auto;
+   margin-right: auto;	
+}
