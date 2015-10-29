@@ -4,11 +4,12 @@ p.dotted
           margin-left: auto;
           margin-right: auto;
           width: 36em;
-          font-size: 20pt;
+          font-size: 18pt;
 		  font-family: broadway;
 		  font-weight:bold;
 		  background-color: #87CEFA;
 		  position: relative;
+		  text-align:center;
 		  
    		  
 }
