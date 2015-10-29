@@ -12,6 +12,7 @@ animate
 {
 	transition: all 0.1s;
 	-webkit-transition: all 0.1s;
+	
 }
 
 .action-button
@@ -24,7 +25,8 @@ animate
 	font-family: 'Pacifico', cursive;
 	font-size: 25px;
 	color: #FFF;
-	text-decoration: none;	
+	text-decoration: none;
+    display: flex;
 }
 
 .blue
@@ -82,4 +84,7 @@ h1
 body {
 background-color: #E6E6FA ;
 
-}	  
+}
+.center {
+    margin: auto;
+    width: 60%;	  
