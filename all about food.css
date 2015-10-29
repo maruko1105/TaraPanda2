@@ -9,9 +9,11 @@ p.blocktext
 }
 
 #nav {
-	 padding-left: 0;
-     margin-top: 0;
-     margin-bottom: 0;
+	position:fixed;
+    top: 0;
+    left: 0;
+    height: 8em;
+    width: 100%;
 	
 	
 	
@@ -103,12 +105,10 @@ body
 { background-image: url("pic/cupcake.jpg") ;
   background-repeat: repeat;
   background-attachment: fixed;
-  line-height:300vh; /* Center nav li */
-  
 }
 .button {
   position: absolute;
-  
+
   top: 90%;
   left: 50%;
   margin: -200px -30px;
