@@ -28,6 +28,7 @@ p.blocktext
 		border-style: none;
 		border-radius:10px;
 		background-color: #008B8B;
+		margin: 0 5px 0 5px;
 		box-shadow: 0px 5px 20px #000000;
 		
 		
@@ -102,6 +103,7 @@ body
 { background-image: url("pic/cupcake.jpg") ;
   background-repeat: repeat;
   background-attachment: fixed;
+  line-height:800vh; /* Center nav */
   
 }
 .button {
