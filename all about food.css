@@ -103,7 +103,7 @@ body
 { background-image: url("pic/cupcake.jpg") ;
   background-repeat: repeat;
   background-attachment: fixed;
-  line-height:800vh; /* Center nav */
+  line-height:100vh; /* Center nav */
   
 }
 .button {
