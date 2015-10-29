@@ -9,7 +9,7 @@ p.blocktext
 }
 
 #nav {
-	display:flex;
+	display:fixed;
 	justify-content:center;
 	align-items:center;
 	width:100vw;
@@ -104,9 +104,11 @@ body
 { background-image: url("pic/cupcake.jpg") ;
   background-repeat: repeat;
   background-attachment: fixed;
+  
 }
 .button {
   position: absolute;
+  display:fixed;
   top: 90%;
   left: 50%;
   margin: -200px -30px;
