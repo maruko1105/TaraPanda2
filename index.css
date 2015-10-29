@@ -96,3 +96,8 @@ div {
     width: 85%;
     display:inline-block;	
 }
+.block-three:before {
+  @style:left,transparent 0%,transparent 50%,@rd 50%,@rd 100%;
+  .background-size(10px 100%);
+  .gradient(@pk,@style);
+}
