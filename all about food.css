@@ -102,3 +102,12 @@ body
   background-repeat: repeat;
   background-attachment: fixed;
 }
+.button-4 {
+  border-radius: 100em;
+  text-shadow: 2px 2px 0 $subcolor;
+  &:before {
+    border-radius: 100em;
+    background: transparent;
+    left: -1px;
+    top: -1px;
+  }
