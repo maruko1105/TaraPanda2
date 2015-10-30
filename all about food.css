@@ -88,7 +88,8 @@ ul.image-set li {
   float: left;
   width: 25%;
   padding: 1.8em;
-  transition : width .3s .5s, opacity .3s .5s, padding .3s .5s
+  transition : width .3s .5s, opacity .3s .5s, padding .3s .5s;
+  margin-left: 60px
 }
 
 ul.image-set li:hover {
@@ -100,7 +101,7 @@ ul.image-set li:hover {
 ul.image-set li img {
   width: 100%;
   vertical-align: middle;
-  margin-left: 60px
+  
 } 
 body 
 { background-image: url("pic/cupcake.jpg") ;
