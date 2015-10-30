@@ -20,11 +20,9 @@ header {
     z-index: -1;
     height: 100px;
     background-color: #FF6347;
+	height: 20 px;
 }
-.wraper-header
-{   margin-top: 100px;
-    margin-bottom: 50px;
-}
+
 animate
 {
 	transition: all 0.1s;
