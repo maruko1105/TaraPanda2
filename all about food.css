@@ -85,11 +85,11 @@ a{
 	color:black;
 }
 ul.image-set li {
-  float: left;
+  float: center;
   width: 25%;
   padding: 1.8em;
   transition : width .3s .5s, opacity .3s .5s, padding .3s .5s;
-  margin-left: 60px
+ 
 }
 
 ul.image-set li:hover {
