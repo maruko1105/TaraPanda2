@@ -19,9 +19,12 @@ header {
     width: 100%;
     z-index: -1;
     height: 100px;
-    background-color: #00FF7F;
+    background-color: #000080;
 }
-
+.wraper-header
+{   margin-top: 100px;
+    margin-bottom: 20px;
+}
 animate
 {
 	transition: all 0.1s;
