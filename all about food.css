@@ -47,7 +47,7 @@ h1
 		 color: #2E2E2E;
 }
 h2
-{       font-family: elephant; 
+{        font-family: elephant; 
          font-size: 52pt;
          font-weight: bold;		 
 		 text-align: center; 
@@ -58,7 +58,7 @@ ul.image-set {
   overflow: hidden;
   float: center;
   display:inline-block;
-  margin-left:405px;
+  margin-left:350px;
   padding: 0;
   width: 700px;
   height: 700px
