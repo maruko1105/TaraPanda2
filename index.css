@@ -1,3 +1,7 @@
+@font-face{
+	font-family:orange;
+	src:url("orangejuice.ttf");
+	}
 p.dotted
 {         border-style:dotted;
           border-color: #1E90FF;
@@ -114,8 +118,8 @@ div {
 }
 
 h2
-{        font-family: orange_juice; 
-         font-size: 30pt;
+{        font-family: orange,cursive; 
+         font-size:64pt;
          font-weight: bold;		 
 		 text-align: center; 
 		 color: #663399;    
