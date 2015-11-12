@@ -19,7 +19,7 @@ header {
     width: 100%;
     z-index: -1;
     height: 200px;
-    background-color: #FF6347;
+    background-color: #FFFFE0;
 	
 }
 
@@ -111,4 +111,12 @@ div {
     margin-left: 75px ;
     width: 85%;
     display:inline-block;	
+}
+
+h2
+{        font-family: orange_juice; 
+         font-size: 30pt;
+         font-weight: bold;		 
+		 text-align: center; 
+		 color: #663399;    
 }
