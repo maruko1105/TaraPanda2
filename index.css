@@ -38,8 +38,8 @@ animate
 .action-button
 {
 	position: relative;
-	padding: 10px 40px;
-    margin: 0px 10px 10px 0px;
+	padding: 20px 55px;
+    margin: 0px 15px 15px 0px;
     float: center;
 	border-radius: 10px;
 	font-family: 'Pacifico', cursive;
@@ -47,7 +47,7 @@ animate
 	color: #FFF;
 	text-decoration: none;
     display: inline;
-	margin-left: 70px;
+	margin-left: 85px;
     
 }
 
@@ -88,7 +88,7 @@ animate
 	
 img
 {         width:980px;
-          height:588px; 
+          height:628px; 
 		display: block;
         margin-left: auto;
         margin-right: auto;
