@@ -12,6 +12,15 @@ p.blocktext
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
 }
+img
+{         width:1080px;
+          height:628px; 
+		display: block;
+        margin-left: auto;
+        margin-right: auto;
+	
+	
+}
 .nav {
 	height: 100px;
 	width: 100%;
@@ -35,7 +44,7 @@ p.blocktext
 	width: 120px;
 	background: #F08080;
 	color: #A0522D;
-	
+	font-family: "
 	padding-top: 40px;
 	border: 5px solid #d1d1d1;
 	-moz-border-radius: 50%;
