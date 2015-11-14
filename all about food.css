@@ -12,15 +12,7 @@ p.blocktext
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
 }
-img
-{         width:1080px;
-          height:628px; 
-		display: block;
-        margin-left: auto;
-        margin-right: auto;
-	
-	
-}
+
 .nav {
 	height: 100px;
 	width: 100%;
@@ -166,4 +158,13 @@ body
   text-shadow: 0 1px 0 rgba(255, 255, 255, .3), 0 -1px 0 rgba(0, 0, 0, .3);
   
 
+}
+img
+{         width:1080px;
+          height:628px; 
+		display: block;
+        margin-left: auto;
+        margin-right: auto;
+	
+	
 }
