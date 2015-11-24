@@ -12,7 +12,13 @@ p.blocktext
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
 }
-
+img
+{       width:764px;
+        height:528px; 
+		display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
 .center
 {       margin: auto;
         width: 85%;
