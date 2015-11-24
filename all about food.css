@@ -12,7 +12,13 @@ p.blocktext
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
 }
-
+img.
+{       width:890px;
+        height:540px; 
+		display: block;
+        margin-left: auto;
+        margin-right: auto;
+		}
 .nav {
 	height: 100px;
 	width: 100%;
