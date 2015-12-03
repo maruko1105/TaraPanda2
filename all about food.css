@@ -25,9 +25,11 @@ p.blocktext
 
 p.lobster
 {     
-       position: absolute;
-       top:  25%;
-	   left: 650%;
+   position: fixed;
+   top: 30%;
+   left: 50%;
+   margin-top: -650px;
+   margin-left: -650px;
 	   
 	   
        	   
