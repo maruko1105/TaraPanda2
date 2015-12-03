@@ -16,15 +16,14 @@ p.blocktext
 .center
 {       margin: auto;
         width: 85%;
-		 width:764px;
+		width:764px;
         height:588px; 
 		display: block;
         margin-left: auto;
         margin-right: auto;
 }
 .video
-{       margin: auto;
-        width: 85%; 
+{       margin: auto; 
 		display: block;
         margin-left: auto;
         margin-right: auto;
