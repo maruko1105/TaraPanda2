@@ -22,13 +22,11 @@ p.blocktext
         margin-left: auto;
         margin-right: auto;
 }
-.video
-{       margin: auto; 
-		display: block;
-        margin-left: auto;
+.lobster
+{       margin-left: auto;
         margin-right: auto;
-}
-		
+		display: block;
+}		
 .nav {
 	height: 100px;
 	width: 100%;
