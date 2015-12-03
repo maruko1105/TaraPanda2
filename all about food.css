@@ -25,7 +25,7 @@ p.blocktext
 
 .lobster
 {       
-       position: absolute;
+       position: relative;
        top:  45%;
        left: 50%;
   }
@@ -155,7 +155,7 @@ body
 }
 .button {
   position: absolute;
-  top: 190%;
+  top: 220%;
   left: 50%;
   margin: 400px 10px;
   width: 110px;
