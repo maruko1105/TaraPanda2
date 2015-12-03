@@ -21,7 +21,15 @@ p.blocktext
 		display: block;
         margin-left: auto;
         margin-right: auto;
-}		
+}
+.video
+{       margin: auto;
+        width: 85%; 
+		display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+		
 .nav {
 	height: 100px;
 	width: 100%;
