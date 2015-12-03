@@ -27,6 +27,7 @@ p.blocktext
 {       
        position: absolute;
        top:  25%;
+	   margin-left: 75px;
 	   width: 1090px; 
 	   height: 1220px;
        display: center;	   
