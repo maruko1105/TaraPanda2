@@ -27,7 +27,8 @@ p.lobster
 {     
        position: absolute;
        top:  25%;
-	   right: 15%;
+	   left: 100%;
+	   display: inline-block;
 	   
        	   
   }
