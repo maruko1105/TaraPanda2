@@ -29,6 +29,9 @@ p.blocktext
        top:  25%;
        left: 50%;
 	   margin: 100px 10px;
+	   width: 1090px; 
+	   height: 1220px;
+       display: block;	   
   }
   
 .nav {
