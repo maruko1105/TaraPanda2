@@ -23,7 +23,7 @@ p.blocktext
         margin-right: auto;
 }
 
-p.lobster
+.lobster
 {     
    position: absolute;  
     top: -100%;
