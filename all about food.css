@@ -1,3 +1,9 @@
+.lobster
+{    position: absolute;  
+     top: 30px;
+     left:100px;
+	   
+}
 p.blocktext
 {         
           margin-left: auto;
@@ -25,12 +31,11 @@ p.blocktext
 
 .lobster
 {     
-       position: absolute;  
-       top: 30px;
-       left:50px;
+  position: absolute;  
+   top: 30px;
+   left:100px;
 	   
-         	   
-  }
+}
   
 .nav {
 	height: 100px;
