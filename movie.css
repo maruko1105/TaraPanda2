@@ -104,16 +104,15 @@ div, ul, li, img {
 }
 
 .gallery input {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  display: none;
 }
 
 .gallery input + label {
   background-color: #aaa;
   height: 12px;
-  width: 50px;
+  width: 51px;
   display: inline-block;
+  float: center;
   border: 1px solid #444;
   cursor: pointer;
   transition: all 0.5s;
