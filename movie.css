@@ -92,7 +92,7 @@ div, ul, li, img {
 .gallery-item img {
   width: 760px;
   height: 540px;
-  padding: 34;
+  padding: 30;
   margin: 10px 0;
   border: hidden;
   cursor: pointer;
@@ -113,7 +113,6 @@ div, ul, li, img {
   height: 8px;
   width: 14px;
   display: inline-block;
-  padding: 34px;
   border: 1px solid #E0FFFF;
   cursor: pointer;
   transition: all 0.5s;
