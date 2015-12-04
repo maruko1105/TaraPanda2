@@ -73,7 +73,7 @@ div, ul, li, img {
   border: 1px solid #aaa;
   margin: 20px auto;
   padding: 20px;
-  background-image: radial-gradient(#aaaaaa 0%, #666666 90%, #555555 100%);
+  background-image: radial-gradient(#aaaaaa 0%, #E0FFFF 90%, #20B2AA 100%);
 }
 
 .gallery-images {
