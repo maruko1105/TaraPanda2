@@ -106,7 +106,7 @@ div, ul, li, img {
   display: inline-block;
   border: 1px solid #444;
   cursor: pointer;
-  transition: all 0.9s;
+  transition: all 0.7s;
   
 }
 .gallery input + label:hover {
