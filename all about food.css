@@ -26,8 +26,9 @@ p.blocktext
 .lobster
 {     
        position: absolute;  
-       top: 50%;
-       left: -80%;
+       top: 30px;
+       left:50px;
+	   
          	   
   }
   
