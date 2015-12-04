@@ -104,17 +104,19 @@ div, ul, li, img {
 }
 
 .gallery input {
-  display: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .gallery input + label {
   background-color: #aaa;
   height: 12px;
-  width: 52px;
+  width: 50px;
   display: inline-block;
   border: 1px solid #444;
   cursor: pointer;
-  transition: all 0.7s;
+  transition: all 0.5s;
   
 }
 .gallery input + label:hover {
