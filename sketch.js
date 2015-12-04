@@ -4,13 +4,13 @@ var potSprite, lobsterSprite;
 var direction = 90; //circle initial direction moving down
 
 function setup() {
-  createCanvas(1050,550);
+  createCanvas(850,550);
   pot=loadImage( "img/pot.png");
   lobster=loadImage("img/lobster.png");
   //create the sprites
- 	potSprite = createSprite(600, 200, 150, 400);
+ 	potSprite = createSprite(700, 200, 350, 400);
 	potSprite.addImage(pot);
- 	lobsterSprite = createSprite(400, 200, 150, 400);
+ 	lobsterSprite = createSprite(550, 200, 350, 400);
   	lobsterSprite.addImage(lobster);
   	
 }
