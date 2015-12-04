@@ -71,7 +71,7 @@ div, ul, li, img {
   width: 820px;
   overflow: hidden;
   border: hidden;
-  border-radius: 8px;
+  border-radius: 20px;
   margin: 20px auto;
   padding: 10px;
   background-image: radial-gradient(#aaaaaa 0%, #E0FFFF 50%, #87CEFA 50%);
@@ -94,7 +94,7 @@ div, ul, li, img {
   height: 580px;
   padding: 0;
   margin: 10px 0;
-  border: 1px solid #aaa;
+  border: 1px solid #E0FFFF;
   cursor: pointer;
 }
 .gallery-item:not(:first-child) img {
@@ -114,7 +114,7 @@ div, ul, li, img {
   width: 51px;
   display: inline-block;
   float: center;
-  border: 1px solid #444;
+  border: 1px solid #E0FFFF;
   cursor: pointer;
   transition: all 0.5s;
   
