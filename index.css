@@ -97,11 +97,12 @@ img
 }
 
 h1
-{        font-family: elephant; 
+{        font-family: chiller; 
          font-size: 16pt;
          font-weight: bold;		 
 		 text-align: center; 
 		 color: #2E2E2E;
+		 text-shadow: 3px 3px 3px #808080;
 }	
 body {
 background-color: #E6E6FA ;
