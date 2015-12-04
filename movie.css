@@ -92,7 +92,7 @@ div, ul, li, img {
 .gallery-item img {
   width: 750px;
   height: 560px;
-  padding: 0;
+  padding: 28;
   margin: 10px 0;
   border: 1px solid #E0FFFF;
   cursor: pointer;
