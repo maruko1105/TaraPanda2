@@ -70,9 +70,9 @@ div, ul, li, img {
 .gallery {
   width: 820px;
   overflow: hidden;
-  border: 6px groove #00BFFF;
-  margin: 20px auto;
-  padding: 20px;
+  border: 15px groove #00BFFF;
+  margin: 10px auto;
+  padding: 10px;
   background-image: radial-gradient(#aaaaaa 0%, #E0FFFF 100%, #87CEFA 75%);
 }
 
