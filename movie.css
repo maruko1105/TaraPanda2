@@ -74,7 +74,7 @@ body {
 }
 
 .gallery-images {
-  width: 850px;
+  width: 88060px;
   text-align: left;
   position: relative;
   padding: 0;
@@ -86,8 +86,8 @@ body {
   display: inline;
 }
 .gallery-item img {
-  width: 600px;
-  height: 300px;
+  width: 750px;
+  height: 580px;
   padding: 0;
   margin: 10px 0;
   border: 1px solid #aaa;
@@ -126,9 +126,57 @@ body {
 }
 
 .gallery #ind-2:checked ~ .gallery-images {
-  left: -310px;
+  left: -760px;
 }
 
 .gallery #ind-3:checked ~ .gallery-images {
-  left: -620px;
+  left: -1420px;
+}
+
+.gallery #ind-4:checked ~ .gallery-images {
+  left: -2280px;
+}
+
+.gallery #ind-5:checked ~ .gallery-images {
+  left: -3800px;
+}
+
+.gallery #ind-6:checked ~ .gallery-images {
+  left: -4560px;
+}
+
+.gallery #ind-7:checked ~ .gallery-images {
+  left: -5320px;
+}
+
+.gallery #ind-8:checked ~ .gallery-images {
+  left: -6080px;
+}
+
+.gallery #ind-9:checked ~ .gallery-images {
+  left: -6840px;
+}
+
+.gallery #ind-10:checked ~ .gallery-images {
+  left: -7600px;
+}
+
+.gallery #ind-11:checked ~ .gallery-images {
+  left: -8360px;
+}
+
+.gallery #ind-12:checked ~ .gallery-images {
+  left: -9120px;
+}
+
+.gallery #ind-13:checked ~ .gallery-images {
+  left: -9880px;
+}
+
+.gallery #ind-14:checked ~ .gallery-images {
+  left: -10640px;
+}
+
+.gallery #ind-15:checked ~ .gallery-images {
+  left: -11400px;
 }
