@@ -109,12 +109,12 @@ div, ul, li, img {
 
 .gallery input + label {
   background-color: #aaa;
-  height: 8px;
-  width: 52px;
+  height: 10px;
+  width: 51px;
   display: inline-block;
   border: 1px solid #444;
   cursor: pointer;
-  transition: all 0.8s;
+  transition: all 0.7s;
   
 }
 .gallery input + label:hover {
