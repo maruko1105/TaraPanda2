@@ -113,7 +113,6 @@ div, ul, li, img {
   height: 12px;
   width: 51px;
   display: inline-block;
-  padding: 5px;
   border: 1px solid #E0FFFF;
   cursor: pointer;
   transition: all 0.5s;
