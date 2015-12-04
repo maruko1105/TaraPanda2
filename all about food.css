@@ -28,9 +28,10 @@ p.blocktext
 }
 .lobster
 {    
+	 margin: auto;
 	 margin-left: auto;
 	 margin-right: auto;
-	   
+	 position: absolute;  
      display: block;
 	 
 	 
