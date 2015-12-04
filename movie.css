@@ -74,7 +74,7 @@ body {
 }
 
 .gallery-images {
-  width: 1800px;
+  width: 850px;
   text-align: left;
   position: relative;
   padding: 0;
@@ -87,7 +87,7 @@ body {
 }
 .gallery-item img {
   width: 600px;
-  height: 500px;
+  height: 300px;
   padding: 0;
   margin: 10px 0;
   border: 1px solid #aaa;
