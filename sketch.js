@@ -8,9 +8,9 @@ function setup() {
   pot=loadImage( "img/pot.png");
   lobster=loadImage("img/lobster.png");
   //create the sprites
- 	potSprite = createSprite(600, 200, 50, 100);
+ 	potSprite = createSprite(600, 200, 150, 400);
 	potSprite.addImage(pot);
- 	lobsterSprite = createSprite(400, 200, 50, 300);
+ 	lobsterSprite = createSprite(400, 200, 150, 400);
   	lobsterSprite.addImage(lobster);
   	
 }
