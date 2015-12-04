@@ -68,7 +68,7 @@ div, ul, li, img {
 }
 
 .gallery {
-  width: 880px;
+  width: 800px;
   overflow: hidden;
   border: hidden;
   border-radius: 20px;
@@ -78,7 +78,7 @@ div, ul, li, img {
 }
 
 .gallery-images {
-  width: 88030px;
+  width: 88060px;
   text-align: left;
   position: relative;
   padding: 0;
@@ -92,7 +92,7 @@ div, ul, li, img {
 .gallery-item img {
   width: 760px;
   height: 540px;
-  padding: 24;
+  padding: 28;
   margin: 10px 0;
   border: hidden;
   cursor: pointer;
