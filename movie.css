@@ -68,7 +68,7 @@ div, ul, li, img {
 }
 
 .gallery {
-  width: 820px;
+  width: 880px;
   overflow: hidden;
   border: hidden;
   border-radius: 20px;
@@ -90,8 +90,8 @@ div, ul, li, img {
   display: inline;
 }
 .gallery-item img {
-  width: 725px;
-  height: 540px;
+  width: 750px;
+  height: 560px;
   padding: 0;
   margin: 10px 0;
   border: 1px solid #E0FFFF;
