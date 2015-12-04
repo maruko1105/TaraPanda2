@@ -71,6 +71,7 @@ div, ul, li, img {
   width: 820px;
   overflow: hidden;
   border: hidden;
+  border-radius: 8px;
   margin: 20px auto;
   padding: 10px;
   background-image: radial-gradient(#aaaaaa 0%, #E0FFFF 50%, #87CEFA 50%);
