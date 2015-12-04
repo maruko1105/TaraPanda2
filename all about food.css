@@ -25,17 +25,10 @@ p.blocktext
 
 .lobster
 {     
-   position: absolute;  
-    top: -100%;
-    left: -100%;
-    bottom: -100%;
-    right: -100%;
-    margin: auto;
-    min-width: 100%;
-    min-height: 100%;
-	   
-	   
-       	   
+       position: absolute;  
+       top: 50%;
+       left: -80%;
+         	   
   }
   
 .nav {
