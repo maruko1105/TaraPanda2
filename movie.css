@@ -179,10 +179,10 @@ div, ul, li, img {
 }
 
 .gallery #ind-14:checked ~ .gallery-images {
-  left: -9880px;
+  left: -9860px;
 }
 
 .gallery #ind-15:checked ~ .gallery-images {
-  left: -10640px;
+  left: -10600px;
 }
 
