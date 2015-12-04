@@ -10,7 +10,7 @@ function setup() {
   //create the sprites
  	potSprite = createSprite(600, 200, 50, 100);
 	potSprite.addImage(pot);
- 	lobsterSprite = createSprite(400, 200, 50, 100);
+ 	lobsterSprite = createSprite(400, 200, 50, 300);
   	lobsterSprite.addImage(lobster);
   	
 }
