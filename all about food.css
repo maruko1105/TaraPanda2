@@ -1,14 +1,4 @@
-.lobster
-{    
-	 margin-left: auto;
-	 margin-right: auto;
-	 position: absolute;  
-     display: block;
-	 top:20%;
-	 left:80%;
 
-	   
-}
 p.blocktext
 {         
           margin-left: auto;
@@ -33,7 +23,17 @@ p.blocktext
         margin-left: auto;
         margin-right: auto;
 }
+.lobster
+{    
+	 margin-left: auto;
+	 margin-right: auto;
+	 position: absolute;  
+     display: block;
+	 top:20%;
+	 left:80%;
 
+	   
+}
 .nav {
 	height: 100px;
 	width: 100%;
