@@ -78,7 +78,7 @@ div, ul, li, img {
 }
 
 .gallery-images {
-  width: 12750px;
+  width: 13050px;
   text-align: left;
   position: relative;
   padding: 0;
@@ -179,10 +179,10 @@ div, ul, li, img {
 }
 
 .gallery #ind-14:checked ~ .gallery-images {
-  left: -9860px;
+  left: -9880px;
 }
 
 .gallery #ind-15:checked ~ .gallery-images {
-  left: -10600px;
+  left: -10640px;
 }
 
