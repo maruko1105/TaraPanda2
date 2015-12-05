@@ -85,5 +85,17 @@ h4
          width: 8em;
 		 background-color: #87CEFA;
 		 border-radius: 20px;
-		 
+		 position: absolute;
+         top: 220%;
+         left: 50%;
+}
+
+.lobster
+{    
+         position: absolute;
+         top: 60%;
+         left: 50%;
+	
+
+	   
 }
