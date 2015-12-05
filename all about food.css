@@ -152,10 +152,10 @@ ul.image-set li img {
 
 .container{
   position: relative;
-  margin: 62px auto;
-  max-width: 80%;
+  margin: 68px auto;
+  max-width: 70%;
   background-color: #f1f1f1;
-  padding: 12px;
+  padding: 18px;
   border:1px solid #c5c5c5;
 }
 
