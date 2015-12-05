@@ -1,7 +1,4 @@
-#wrap{
-	width: 800px;
-	margin: 0 auto;
-	}
+
 p.blocktext
 {         
           margin-left: auto;
@@ -26,16 +23,7 @@ p.blocktext
         margin-left: auto;
         margin-right: auto;
 }
-.lobster
-{    
-	 
-	 margin: 30px;
-     display: block;
 
-	
-
-	   
-}
 .nav {
 	height: 100px;
 	width: 100%;
@@ -154,6 +142,66 @@ ul.image-set li img {
   vertical-align: middle;
   
 } 
+.cf:before,.cf:after{
+  content: '';  
+  display: table;
+}
+.cf:after{
+  clear:both;    
+}
+
+.container{
+  position: relative;
+  margin: 50px auto;
+  max-width: 80%;
+  background-color: #f1f1f1;
+  padding: 10px;
+  border:1px solid #c5c5c5;
+}
+
+.gallery{
+  width: 100%;
+  overflow: hidden;
+}
+
+.image{
+  /* float:left not working in mozilla*/
+  display: inline-block;
+  padding: 2%;
+  background-color: #ADD8E6;
+  margin: 1%;
+  width: 18%;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+  text-align: center;  
+  border:1px solid #c3c3c3;
+  cursor: pointer;
+}
+
+.image figure{
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+.image figure img{
+  width: 100%;
+}
+
+figcaption{
+  background-color: rgba(0,0,0,0.8);
+  text-transform: uppercase;
+  text-align: center;
+  padding: 1px;
+  font-size: 8px;
+  font-family: MV Boli;
+  cursor: pointer;
+  color: #00008B;
+  max-width:100%;
+  font-weight: bold;
+}
+
+figcaption:hover{
+  color: #fff;
+}
 body 
 { background-image: url("pic/cupcake.jpg") ;
   background-repeat: repeat;
