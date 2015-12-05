@@ -74,18 +74,18 @@ h4
 
 .button
 {        font-family: chiller; 
-         font-size: 40pt;
+         font-size: 30pt;
          font-weight: bold;		 
 		 text-align: center; 
 		 color: #2E2E2E;
 		 border-style:dotted;
          border-color: #1E90FF;
-         width: 6em;
+         width: 4em;
 		 background-color: #87CEFA;
 		 border-radius: 25px;
          position:absolute;
 		 top: 154%;
-		 left:32%; 
+		 left:44%; 
          
 }
 
