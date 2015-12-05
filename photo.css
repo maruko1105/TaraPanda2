@@ -90,7 +90,7 @@ h4
 }
 
 section {
-    width:850px;
-    float:left;
-    padding:100px; 
+    position:absolute;
+		 top:  50%;
+		 left: 15%; 
 }
