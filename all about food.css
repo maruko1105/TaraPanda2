@@ -167,10 +167,10 @@ ul.image-set li img {
 .image{
   /* float:left not working in mozilla*/
   display: inline-block;
-  padding:18px;
+  padding:6px;
   background-color: #ADD8E6;
-  margin:10%;
-  width: 18%;
+  margin:3%;
+  width: 8%;
   box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
   text-align: center;  
   border:1px solid #c3c3c3;
@@ -178,12 +178,12 @@ ul.image-set li img {
 }
 
 .image figure{
-  width: 70%;
+  width: 80%;
   margin-bottom: 5px;
 }
 
 .image figure img{
-  width: 70%;
+  width: 100%;
 }
 
 figcaption{
