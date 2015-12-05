@@ -89,13 +89,8 @@ h4
          
 }
 
-.lobster
-{    
-    
-         top: 40%;
-		 center;
-         
-	
-
-	   
+#section {
+    width:350px;
+    float:left;
+    padding:10px; 
 }
