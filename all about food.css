@@ -152,10 +152,10 @@ ul.image-set li img {
 
 .container{
   position: relative;
-  margin: 18px auto;
+  margin: 50px auto;
   max-width: 80%;
   background-color: #f1f1f1;
-  padding: 5px;
+  padding: 10px;
   border:1px solid #c5c5c5;
 }
 
@@ -167,10 +167,10 @@ ul.image-set li img {
 .image{
   /* float:left not working in mozilla*/
   display: inline-block;
-  padding:6px;
+  padding:2%;
   background-color: #ADD8E6;
-  margin:3%;
-  width: 8%;
+  margin:1%;
+  width: 18%;
   box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
   text-align: center;  
   border:1px solid #c3c3c3;
@@ -178,7 +178,7 @@ ul.image-set li img {
 }
 
 .image figure{
-  width: 80%;
+  width: 100%;
   margin-bottom: 5px;
 }
 
@@ -190,8 +190,8 @@ figcaption{
   background-color: rgba(0,0,0,0.8);
   text-transform: uppercase;
   text-align: center;
-  padding: 1px;
-  font-size: 8px;
+  padding: 5px;
+  font-size: 16px;
   font-family: chiller;
   cursor: pointer;
   color: #00008B;
