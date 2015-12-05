@@ -178,12 +178,12 @@ ul.image-set li img {
 }
 
 .image figure{
-  width: 100%;
-  margin-left: 2px;
+  width: 120%;
+  margin-left: 4px;
 }
 
 .image figure img{
-  width: 100%;
+  width: 120%;
 }
 
 figcaption{
