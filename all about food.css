@@ -167,9 +167,9 @@ ul.image-set li img {
 .image{
   /* float:left not working in mozilla*/
   display: inline-block;
-  padding:5%;
+  padding:2%;
   background-color: #ADD8E6;
-  margin:4%;
+  margin:1%;
   width: 18%;
   box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
   text-align: center;  
