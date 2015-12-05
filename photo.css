@@ -87,14 +87,15 @@ h4
 		 border-radius: 20px;
 		 position: absolute;
          top: 220%;
-         left: 50%;
+         
 }
 
 .lobster
 {    
-         position: absolute;
+    
          top: 60%;
-         left: 50%;
+		 center;
+         
 	
 
 	   
