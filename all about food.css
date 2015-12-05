@@ -155,7 +155,7 @@ ul.image-set li img {
   margin: 18px auto;
   max-width: 80%;
   background-color: #f1f1f1;
-  padding: 18px;
+  padding: 5px;
   border:1px solid #c5c5c5;
 }
 
@@ -178,12 +178,12 @@ ul.image-set li img {
 }
 
 .image figure{
-  width: 80%;
-  margin-bottom: 6px;
+  width: 70%;
+  margin-bottom: 5px;
 }
 
 .image figure img{
-  width: 80%;
+  width: 70%;
 }
 
 figcaption{
