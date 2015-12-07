@@ -101,7 +101,7 @@ div, ul, li, img {
   margin-left: 10px;
 }
 .gallery-item:first-child img {
-  margin-left: 30px;
+  margin-left: 20px;
 }
 
 .gallery input {
