@@ -111,7 +111,7 @@ div, ul, li, img {
 .gallery input + label {
   background-color: #87CEFA;
   height:12px;
-  width: 51px;
+  width: 46px;
   display: inline-block;
   border: 1px solid #E0FFFF;
   cursor: pointer;
