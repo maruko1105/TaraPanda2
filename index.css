@@ -108,9 +108,14 @@ body {
 background-color: #E6E6FA ;
 
 }
-.center {
-    margin: auto;
-    width: 85%;	  
+.sweet 
+{
+        width: 85%;
+		width: 664px;
+        height: 358px; 
+		position: absolute;
+        left: 45%;
+		top: 30%
 }
 div {
     margin-left: 75px ;
