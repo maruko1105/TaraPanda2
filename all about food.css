@@ -14,11 +14,11 @@ p.blocktext
 	box-sizing: border-box;
 }
 
-.center
+.food
 {       margin: auto;
         width: 85%;
-		width:764px;
-        height:588px; 
+		width: 834px;
+        height: 628px; 
 		display: block;
         margin-left: auto;
         margin-right: auto;
