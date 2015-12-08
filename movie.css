@@ -3,17 +3,15 @@
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
 }
-candy
+.candy
 {
-        margin: auto;
 		width: 85%;
 		width:764px;
         height:588px; 
 		display: block;
         margin-left: auto;
         margin-right: auto;
-		
-		
+				
        
 }		
 
