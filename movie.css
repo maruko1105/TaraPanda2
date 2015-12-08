@@ -221,3 +221,9 @@ div, ul, li, img {
 		 left: 45%; 
          
 }
+
+.video
+{       display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
