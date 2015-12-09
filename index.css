@@ -38,7 +38,6 @@ animate
 .action-button
 {
 	position: relative;
-	top: 60%;
 	padding: 24px 26px;
     margin: 0px 08px 08px 0px;
     float: center;
@@ -115,13 +114,14 @@ background-color: #E6E6FA ;
 }
 div {
     margin-left: 75px ;
+	margin-top: 80px;
     width: 85%;
     display:inline-block;	
 }
 
 h2
 {        font-family: orange,cursive; 
-         font-size:84pt;
+         font-size:96pt;
          font-weight: bold;		 
 		 text-align: center; 
 		 color: #663399;    
